@@ -141,8 +141,8 @@ async function main(bar, limit = 300) {
         console.log("\n**********************************\n\n\tSuccessfully Done\t\t\n\n**********************************\n");
         console.log(`Please visit ${path.resolve("./Result/result.xlsx")}`)
     }).catch(err => {
-        console.log("You may view result.xlsx using other apps please closed it before you run this program");
-        throw new Error(err.message);
+        console.log("\n\nYou may view result.xlsx using other apps please closed it before you run this program\n");
+        process.exit(0);
     })
 }
 const bar = new SingleBar({}, Presets.shades_classic);
