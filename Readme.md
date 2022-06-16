@@ -21,6 +21,6 @@
 
     See the result [here](./Result/result.xlsx)
 
-    ![result.xlsx](./image/result.png)
+    ![result.xlsx](./image/result-view.gif.crdownload)
 
 ##### <center>Made with ❤️❤️ by Debadutta Panda</center>
