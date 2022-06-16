@@ -1,0 +1,67 @@
+{
+    "stateCode":{
+    "AD":"Andhra Pradesh",
+    "AR":"Arunachal Pradesh",
+    "AS":"Assam",
+    "BR":"Bihar",
+    "CG":"Chattisgarh",
+    "GA":"Goa",
+    "GJ":"Gujarat",
+    "HR":"Haryana",
+    "HP":"Himachal Pradesh",
+    "JK":"Jammu and Kashmir",
+    "JH":"Jharkhand",
+    "KA":"Karnataka",
+    "KL":"Kerala",
+    "LD":"Lakshadweep Islands",
+    "MP":"Madhya Pradesh",
+    "MH":"Maharashtra",
+    "MN":"Manipur",
+    "ML":"Meghalaya",
+    "MZ":"Mizoram",
+    "NL":"Nagaland",
+    "OD":"Odisha",
+    "PB":"Punjab",
+    "RJ":"Rajasthan",
+    "SK":"Sikkim",
+    "TN":"Tamil Nadu",
+    "TS":"Telengana",
+    "TR":"Tripura",
+    "UP":"Uttar Pradesh",
+    "UK":"Uttarakhand",
+    "WB":"West Bengal",
+    "AN":"Andaman and Nichobar Islands"
+},
+"headers":[
+      {
+        "C1": "C1",
+        "C2": "E1",
+        "value":
+          "Average performance of students by learning outcomes in language in class 5"
+      },
+      {
+        "C1": "F1",
+        "C2": "H1",
+        "value":
+          "Average performance of students by learning outcomes in maths in class 5"
+      },
+      {
+        "C1": "I1",
+        "C2": "K1",
+        "value":
+          "Average performance of students by learning outcomes in EVS in class 5"
+      },
+      {
+        "C1": "L1",
+        "C2": "N1",
+        "value":
+          "Average performance of students by learning outcomes in language in class 8"
+      },
+      {
+        "C1": "O1",
+        "C2": "Q1",
+        "value":
+          "Average performance of students by learning outcomes in maths in class 8"
+      }
+    ]
+}
